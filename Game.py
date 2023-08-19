@@ -1,4 +1,5 @@
-#Name: Hadi. 
+#Name: Hadi Abdelaal. 
+
 #Function to display instructions.
 def show_instructions():
     # print a main menu and the commands
